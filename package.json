@@ -1,0 +1,19 @@
+{
+  "name": "davy",
+  "version": "0.0.1",
+  "description": "A webdav client on browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naca-nyan/davy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naca-nyan/davy/issues"
+  },
+  "homepage": "https://github.com/naca-nyan/davy#readme"
+}
